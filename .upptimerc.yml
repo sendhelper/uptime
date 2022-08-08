@@ -7,7 +7,7 @@ sites:
     url: https://www.sendhelper.com
 
 status-website:
-  baseUrl: /sendhelper/uptime
+  baseUrl: /
   logoUrl: https://www.sendhelper.com/static/images/logo.png
   name: Sendhelper
   introTitle: "Sendhelper Status."
