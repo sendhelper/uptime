@@ -7,3 +7,5 @@ sites:
     url: https://www.sendhelper.com
 status-website:
   baseUrl: /uptime
+i18n:
+  footer: © Sendtech Pte Ltd 2022 | All rights reserved
