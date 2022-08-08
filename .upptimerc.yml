@@ -5,10 +5,3 @@ repo: uptime # The name of this repository
 sites:
   - name: Sendhelper
     url: https://www.sendhelper.com
-
-status-website:
-  baseUrl: https://sendhelper.github.io/
-  logoUrl: https://www.sendhelper.com/static/images/logo.png
-  name: Sendhelper
-  introTitle: "Sendhelper Status."
-  introMessage: This is a Sendhelper status page which uses **real-time** data from our website
