@@ -6,7 +6,7 @@ sites:
   - name: Sendhelper
     url: https://www.sendhelper.com
 status-website:
-  baseUrl: /uptime
+# baseUrl: /uptime
   cname: status.sendhelper.com
   name: Sendhelper
 i18n:
