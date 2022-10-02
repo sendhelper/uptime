@@ -2,7 +2,7 @@
   {
     "name": "Sendhelper",
     "url": "https://www.sendhelper.com",
-    "icon": "https://favicons.githubusercontent.com/www.sendhelper.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.sendhelper.com.ico",
     "slug": "sendhelper",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1763,
-    "timeDay": 1692,
-    "timeWeek": 1860,
-    "timeMonth": 1810,
-    "timeYear": 1763,
+    "time": 1766,
+    "timeDay": 1903,
+    "timeWeek": 1868,
+    "timeMonth": 1809,
+    "timeYear": 1766,
     "dailyMinutesDown": {}
   }
 ]
