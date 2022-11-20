@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sendhelper.com.ico",
     "slug": "sendhelper",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1744,
-    "timeDay": 1713,
-    "timeWeek": 1754,
-    "timeMonth": 1714,
-    "timeYear": 1744,
-    "dailyMinutesDown": {
-      "2022-11-19": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1742,
+    "timeDay": 1628,
+    "timeWeek": 1710,
+    "timeMonth": 1701,
+    "timeYear": 1742,
+    "dailyMinutesDown": {}
   }
 ]
